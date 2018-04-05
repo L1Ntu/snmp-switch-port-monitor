@@ -1,6 +1,9 @@
 # Goland IDE
 .idea
 
+# Vendor
+vendor
+
 # Binaries for programs and plugins
 *.exe
 *.dll
