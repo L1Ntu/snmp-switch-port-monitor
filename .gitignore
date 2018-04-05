@@ -1,3 +1,6 @@
+# Goland IDE
+.idea
+
 # Binaries for programs and plugins
 *.exe
 *.dll
